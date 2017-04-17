@@ -2,6 +2,8 @@
 soal kuis membuat schema xsd
 
 Ikuti instruktur
+
+
 | elemen  | aturan |
 | ------------- | ------------- |
 | mk  | ?  |
