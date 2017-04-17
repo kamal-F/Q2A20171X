@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<banksoal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="a.xsd">
+	<soal>
+		<mk>1</mk>
+		<dosen>b2</dosen>
+		<tipe>essay</tipe>	
+		<kode>PRAK/MK90/BB123</kode>			
+	</soal>
+	<soal>
+		<mk>122</mk>
+		<dosen>susi</dosen>
+		<tipe>pilganda</tipe>	
+		<kode>TEO/MK21/AA222</kode>			
+	</soal>
+	
+</banksoal>
