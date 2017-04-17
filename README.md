@@ -2,12 +2,12 @@
 soal kuis membuat schema xsd
 
 Ikuti instruktur
-| elemen | aturan |
-| --- | --- |
-| mk | ? |
-| dosen | ? |
-| type | hanya boleh diisi essay/pilganda |
-| kode | ? |
+ elemen | aturan 
+ --- | --- 
+ mk | ? |
+ dosen | ? 
+ type | hanya boleh diisi essay/pilganda |
+ kode | ? 
 
 
 
